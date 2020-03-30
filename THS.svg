@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
@@ -16,11 +17,33 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="THS.svg"
-   inkscape:export-filename="/home/cvoges12/Pictures/THS1.png"
-   inkscape:export-xdpi="61.439999"
-   inkscape:export-ydpi="61.439999">
+   inkscape:export-filename="/home/cvoges12/Pictures/THS2.png"
+   inkscape:export-xdpi="49.439999"
+   inkscape:export-ydpi="49.439999">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient907">
+      <stop
+         style="stop-color:#490008;stop-opacity:1"
+         offset="0"
+         id="stop903" />
+      <stop
+         style="stop-color:#1800a3;stop-opacity:0"
+         offset="1"
+         id="stop905" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient907"
+       id="linearGradient909"
+       x1="38.737827"
+       y1="258.26215"
+       x2="303.32104"
+       y2="-6.3210497"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,11 +51,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="575.34473"
-     inkscape:cy="329.44048"
+     inkscape:zoom="0.5"
+     inkscape:cx="387.67114"
+     inkscape:cy="447.30992"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      showguides="true"
@@ -289,7 +312,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="bg">
+     inkscape:label="bg"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
        id="rect873"
@@ -305,11 +329,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-85.333317)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient909);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
        id="path66"
        sodipodi:sides="6"
        sodipodi:cx="105.83372"
@@ -323,42 +346,43 @@
        inkscape:randomized="0"
        d="m 105.83372,85.333328 91.65435,52.916662 0,105.83333 -91.65436,52.91666 -91.654345,-52.91666 3e-6,-105.83333 z" />
   </g>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
-     id="rect1046"
-     width="26.45862"
-     height="158.75"
-     x="52.916668"
-     y="5.0000008e-06"
-     ry="0" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="2"
-     style="display:inline">
-    <path
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
+       id="rect1046"
+       width="26.45862"
+       height="158.75"
+       x="52.916668"
+       y="5.0000008e-06"
+       ry="0" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
        d="M 79.37529,174.0259 V 158.75 H 52.916661 Z"
        id="path90"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
        id="rect94"
        width="26.458319"
        height="144.57062"
        x="132.29167"
        y="52.916676" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
+       d="m 132.29167,52.916674 h 26.45832 L 132.29167,37.640958 Z"
+       id="path1103"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
+       id="rect875"
+       width="79.375"
+       height="26.458332"
+       x="66.145836"
+       y="92.604164" />
   </g>
-  <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
-     d="m 132.29167,52.916674 h 26.45832 L 132.29167,37.640958 Z"
-     id="path1103"
-     inkscape:connector-curvature="0" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;paint-order:markers stroke fill"
-     id="rect875"
-     width="79.375"
-     height="26.458332"
-     x="66.145836"
-     y="92.604164" />
 </svg>
